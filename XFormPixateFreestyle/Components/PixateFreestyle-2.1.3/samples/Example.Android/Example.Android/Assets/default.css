@@ -1,0 +1,19 @@
+﻿.myButtons {
+	color            : #446620;
+	background-color : linear-gradient(#87c44a, #b4da77);
+	border-width     : 3px;
+	border-color     : #84a254;
+	border-style     : solid;
+	border-radius    : 10px;
+	font-size        : 20px;
+}
+
+#myButton {
+	text             : "Pixate Freestyle!";
+}
+
+
+#myButton2 {
+	text             : "Hello World!";
+}
+	 	
